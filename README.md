@@ -12,7 +12,7 @@
 
 ![image](https://github.com/SSI0816/lidar_obstacle_avoidance/assets/103232864/57e405aa-6b7d-4672-83aa-e510a22c822a)
 
-![image](https://github.com/SSI0816/lidar_obstacle_avoidance/assets/103232864/87e66ad4-720a-4208-8c88-8421fb989056)
+![image](https://github.com/SSI0816/lidar_obstacle_avoidance/assets/103232864/4b26056d-0994-4aea-b026-268f88d17f80)
 
 ---
 3. 동작영상
